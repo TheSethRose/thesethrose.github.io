@@ -1,0 +1,5 @@
+.developer/*
+!.developer/generator/
+!.developer/generator/**
+repomix-output*.xml
+repomix_output*.xml

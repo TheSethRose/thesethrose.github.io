@@ -1,0 +1,72 @@
+{
+  "siteUrl": "https://seth.md",
+  "domain": "seth.md",
+  "author": "Seth Rose",
+  "defaultDescription": "Seth Rose is a Senior Application Developer and Platform Engineer focused on ServiceNow, automation, internal tools, and AI-native developer workflows.",
+  "lastmod": "2026-04-24",
+  "pages": [
+    {
+      "slug": "index",
+      "path": "/",
+      "title": "Seth Rose | Senior Application Developer & Platform Engineer",
+      "ogTitle": "Seth Rose",
+      "description": "Seth Rose is a Senior Application Developer and Platform Engineer focused on ServiceNow, automation, internal tools, and AI-native developer workflows."
+    },
+    {
+      "slug": "resume",
+      "path": "/resume",
+      "title": "Resume | Seth Rose",
+      "ogTitle": "Seth Rose Resume",
+      "description": "Full resume of Seth Rose, Senior Application Developer and Platform Engineer. Experience at GDIT, Toyota, and Uber Freight."
+    },
+    {
+      "slug": "about",
+      "path": "/about",
+      "title": "About | Seth Rose",
+      "ogTitle": "About Seth Rose",
+      "description": "About Seth Rose, Senior Application Developer and Platform Engineer with 10+ years of enterprise experience."
+    },
+    {
+      "slug": "projects",
+      "path": "/projects",
+      "title": "Projects | Seth Rose",
+      "ogTitle": "Seth Rose Projects",
+      "description": "Selected technical work by Seth Rose including AI automation workflows, ServiceNow platform solutions, and developer tooling."
+    },
+    {
+      "slug": "skills",
+      "path": "/skills",
+      "title": "Skills | Seth Rose",
+      "ogTitle": "Seth Rose Skills",
+      "description": "Searchable technical skill inventory for Seth Rose, including ServiceNow, TypeScript, React, Python, AI automation, PostgreSQL, and Prisma."
+    },
+    {
+      "slug": "contact",
+      "path": "/contact",
+      "title": "Contact | Seth Rose",
+      "ogTitle": "Contact Seth Rose",
+      "description": "Public contact and identity links for Seth Rose."
+    },
+    {
+      "slug": "uses",
+      "path": "/uses",
+      "title": "Uses | Seth Rose",
+      "ogTitle": "Seth Rose Uses",
+      "description": "Tools, software, and hardware Seth Rose uses daily."
+    },
+    {
+      "slug": "now",
+      "path": "/now",
+      "title": "Now | Seth Rose",
+      "ogTitle": "Seth Rose Now",
+      "description": "Current work, focus areas, and side projects for Seth Rose."
+    },
+    {
+      "slug": "agents",
+      "path": "/agents",
+      "title": "Agent Context | Seth Rose",
+      "ogTitle": "Seth Rose Agent Context",
+      "description": "LLM-readable public context about Seth Rose, including identity, technical strengths, public URLs, and preferred output style."
+    }
+  ]
+}

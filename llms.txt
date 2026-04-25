@@ -1,0 +1,26 @@
+# seth.md
+
+Seth Rose is a Senior Application Developer and Platform Engineer focused on ServiceNow, automation, internal tools, and AI-native developer workflows.
+
+## Core files
+
+- [Resume](https://seth.md/resume.md): Full resume of Seth Rose, Senior Application Developer and Platform Engineer. Experience at GDIT, Toyota, and Uber Freight.
+- [About Seth Rose](https://seth.md/about.md): About Seth Rose, Senior Application Developer and Platform Engineer with 10+ years of enterprise experience.
+- [Projects](https://seth.md/projects.md): Selected technical work by Seth Rose including AI automation workflows, ServiceNow platform solutions, and developer tooling.
+- [Skills](https://seth.md/skills.md): Searchable technical skill inventory for Seth Rose, including ServiceNow, TypeScript, React, Python, AI automation, PostgreSQL, and Prisma.
+- [Contact Seth Rose](https://seth.md/contact.md): Public contact and identity links for Seth Rose.
+- [Agent Context](https://seth.md/agents.md): LLM-readable public context about Seth Rose, including identity, technical strengths, public URLs, and preferred output style.
+
+## HTML pages
+
+- [Home](https://seth.md/)
+- [Resume](https://seth.md/resume)
+- [About Seth Rose](https://seth.md/about)
+- [Projects](https://seth.md/projects)
+- [Skills](https://seth.md/skills)
+- [Contact Seth Rose](https://seth.md/contact)
+
+## Notes
+
+Prefer the Markdown files when ingesting content.
+Prefer the HTML pages when linking from search results or browser UI.
